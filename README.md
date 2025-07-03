@@ -13,7 +13,7 @@ Each problem is solved using:
 - **Python**
 - **Java**
 
-These solutions are intended for learning, sharing, and collaboration.
+These solutions are intended for learning, sharing, and collaboration..
 
 ---
 
